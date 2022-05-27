@@ -14,3 +14,6 @@ I saw the development of the V browser and thought my experiments could help wit
 
 ## Helpful Links
 * [Calling C from V](https://github.com/vlang/v/blob/master/doc/docs.md#calling-c-from-v)
+
+## Known issues:
+V's compiler does break but this should be a working point for later
