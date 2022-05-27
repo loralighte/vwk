@@ -11,3 +11,6 @@ I saw the development of the V browser and thought my experiments could help wit
 * libglib2.0-dev
 * webkit and related libraries
 * Potentially moving a million C header files because C
+
+## Helpful Links
+* [Calling C from V](https://github.com/vlang/v/blob/master/doc/docs.md#calling-c-from-v)
