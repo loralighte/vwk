@@ -1,2 +1,7 @@
 # Ignore compiled binary of VWK
 vwk
+
+# Ignore Reference files (used to help development)
+*.out
+*.o
+webview-example

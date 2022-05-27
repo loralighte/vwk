@@ -6,3 +6,7 @@ VWK is an experiment in making a simple window using the WebView libraries. This
 
 ## Why?
 I saw the development of the V browser and thought my experiments could help with making the V browser in general, and be "the first" to make something.
+
+## Depends:
+* libglib2.0-dev
+* Potentially moving a million C header files because C

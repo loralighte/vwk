@@ -16,6 +16,11 @@ import gx
 // Later: 
 // import os
 
+// C Imports
+#define WEBVIEW_HEADER
+#include "webview.h"
+#include <stddef.h>
+
 // Set Window Width and Height
 const(
 	window_width = 600
