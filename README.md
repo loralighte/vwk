@@ -9,4 +9,5 @@ I saw the development of the V browser and thought my experiments could help wit
 
 ## Depends:
 * libglib2.0-dev
+* webkit and related libraries
 * Potentially moving a million C header files because C
