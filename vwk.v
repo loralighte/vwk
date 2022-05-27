@@ -33,15 +33,9 @@ fn C.webview_destroy(w &C.webview_t)
 
 fn main (){
 	w := C.webview_create(0, 0)
-
 	C.webview_set_title(w, &char("Webview Example"))
 	C.webview_set_size(w, window_width, window_height, 0)
 	C.webview_navigate(w, &char("https://en.m.wikipedia.org/wiki/Main_Page"))
 	C.webview_run(w)
 	C.webview_destroy(w)
 }
-
-// fn frame(mut context gg.Context){
-// 	context.begin()
-// 	context.end()
-// }
