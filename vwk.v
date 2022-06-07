@@ -2,7 +2,7 @@ module main
 /* 
 	Goals:
 	[x] Open a window
-	[ ] Get WebKit running
+	[x] Get WebKit running
 
 	This will be heavily documented so people who
 	want to reuse this code for other purposes can
