@@ -14,4 +14,4 @@ webview.o: webview.h
 	$(GPP) -c webview.cc $(CPPFLAGS) -o webview.o
 
 clean:
-	rm -rf *.o main
+	rm -rf *.o main vwk
