@@ -13,6 +13,7 @@ module main
 #define WEBVIEW_HEADER
 #include "webview.h"
 #include <stddef.h>
+#flag -c 
 
 // Set Window Width and Height
 const(
